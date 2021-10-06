@@ -9,7 +9,7 @@ namespace LogicaNegocio
         public static void Main(string[] args)
         {
             Console.WriteLine("Empieza...");
-            //Prueba_GenerarAcuse_Factura();
+            Prueba_GenerarAcuse_Factura();
             //Prueba_GenerarAcuse_NotaCredito();
             //Prueba_GenerarJson_OrdenCompra();
             Console.WriteLine("...Termina");
