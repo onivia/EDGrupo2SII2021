@@ -1,0 +1,16 @@
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\bin\Debug\net5.0\TallerListas.exe
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\bin\Debug\net5.0\TallerListas.deps.json
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\bin\Debug\net5.0\TallerListas.runtimeconfig.json
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\bin\Debug\net5.0\TallerListas.runtimeconfig.dev.json
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\bin\Debug\net5.0\TallerListas.dll
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\bin\Debug\net5.0\ref\TallerListas.dll
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\bin\Debug\net5.0\TallerListas.pdb
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\obj\Debug\net5.0\TallerListas.csproj.AssemblyReference.cache
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\obj\Debug\net5.0\TallerListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\obj\Debug\net5.0\TallerListas.AssemblyInfoInputs.cache
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\obj\Debug\net5.0\TallerListas.AssemblyInfo.cs
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\obj\Debug\net5.0\TallerListas.csproj.CoreCompileInputs.cache
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\obj\Debug\net5.0\TallerListas.dll
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\obj\Debug\net5.0\ref\TallerListas.dll
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\obj\Debug\net5.0\TallerListas.pdb
+C:\tmp\Repositorio\EDGrupo2SII2021\TallerListas\obj\Debug\net5.0\TallerListas.genruntimeconfig.cache

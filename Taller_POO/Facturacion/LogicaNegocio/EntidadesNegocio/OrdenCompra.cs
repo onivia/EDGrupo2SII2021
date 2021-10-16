@@ -27,7 +27,7 @@ namespace LogicaNegocio.EntidadesNegocio
             string resultado = string.Empty;            
             
             //ADICIONE AQUI, la linea que falta
-            
+            ordenCompraDB = dbctxt.OrdenCompras.Where(x => x.Numero.Equals(this.Numero)).FirstOrDefault();
             if(ordenCompraDB is not null) {
                 resultado = plantillaFormato.Replace("#:NumeroOC#",ordenCompraDB.Numero)
                                             .Replace("#:Fecha#",ordenCompraDB.Fecha.ToString("dd-MM-yyyy"))

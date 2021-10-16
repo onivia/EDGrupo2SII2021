@@ -44,6 +44,13 @@ namespace LogicaNegocio.EntidadesNegocio
                 case NotaCredito:
                     notaCredito = (NotaCredito)this;
                     //CONTINUE AQUI
+                    notaCreditoDB = dbctxt.NotaCreditos.Where(x => x.Numero.Equals(notaCredito.Numero)).FirstOrDefault();
+                    if(notaCreditoDB is not null) {
+                        resultado = plantillaAcuse.Replace("#:tipo#","nota credito")
+                                                .Replace("#:numero#",notaCreditoDB.Numero)
+                                                .Replace("#:fecha#",notaCreditoDB.Fecha.ToString("dd-MM-yyyy"))
+                                                .Replace("#:existe#","true");
+                    }
 
                     return resultado;
                 default:
