@@ -67,12 +67,12 @@ namespace TallerListas
             tamano++
             */
             if(EstaVacia()) {
-                p = nodo;
-                u = nodo;
+                //COMPLETE AQUI
+
             }
             else {
-                nodo.sgte = p;
-                p = nodo;
+                //COMPLETE AQUI
+                
             }
             tamano+=1;
         }
@@ -114,7 +114,7 @@ namespace TallerListas
 
             if(!EstaVacia()) {
                 //COMPLETE AQUI
-                
+
             }
 
             return nodoCopia;
